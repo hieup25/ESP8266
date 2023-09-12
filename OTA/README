@@ -1,1 +1,12 @@
-chưa có thêm mô tả
+## Mô tả
+
+Tên: [ESP8266] Phần 4: Cập nhật Frimware qua HTTP Server (OTA)
+Cần Có: 
+- Module ESP8266
+- Đã cài đặt môi trường lập trình ESP8266 trên Arduino IDE
+- Cài đặt môi trường Nodejs để chạy server OTA. Cài thêm các module như express, cryto, fs với npm (googling có đủ nha)
+
+## Thêm
+- Đây chỉ là project nhỏ, là 1 cái base cho các bạn hiểu để phát triển thêm thôi nha
+- Bạn có thể tham khảo https://arduino-esp8266.readthedocs.io/en/latest/ota_updates/readme.html
+để hiểu hơn về các cách bảo mật cũng như cách update OTA khác
